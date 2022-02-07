@@ -166,3 +166,10 @@ body{
     background: none;
     color: #1389e0;
 }
+
+/** CENTRADO DE IMAGEN */
+
+.centrar{
+		    margin:auto;
+		    display:block;
+    }
