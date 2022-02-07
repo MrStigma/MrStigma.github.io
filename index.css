@@ -168,8 +168,7 @@ body{
 }
 
 /** CENTRADO DE IMAGEN */
-
 .centrar{
-		    margin:auto;
-		    display:block;
-    }
+    margin:auto;
+    display:block;
+}
